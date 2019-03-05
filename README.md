@@ -1,0 +1,2 @@
+# ImageRecogR
+reconocimiento de imagenes
