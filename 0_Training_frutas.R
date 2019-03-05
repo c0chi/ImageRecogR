@@ -2,7 +2,7 @@
 library(keras)
  
 
-# Lista de 16 clases a identifificar
+# Lista de 6 clases a identifificar
 classes_list <- c("Banana", "Strawberry", "Clementine", "Papaya" ,"Peach Flat", "Pomegranate")
 output_n <- length(classes_list)
 
