@@ -1,4 +1,8 @@
 # ImageRecognitionR
+![ImageRecognition](https://img.shields.io/badge/-ImageRecognition-grey.svg)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellow.svg?style=flat)
+![Keras](https://img.shields.io/badge/-Keras-red.svg?style=flat)
+![R](https://img.shields.io/badge/-R-blue.svg?style=flat)
 
 ### Desc
 
@@ -106,18 +110,7 @@ Parte de 1_Pruebas_frutas.R :
 <p> &nbsp;</p>
 
 
-### Tags
-
-* ImageRecognition    
-* Keras    
-* R    
-* Tensorflow    
-<p> &nbsp;</p>
-
-
-
-
-### urls
+### Urls
 
 https://www.youtube.com/watch?v=PicxU81owCs
 
